@@ -22,7 +22,8 @@
     <overlay
         android:targetPackage="android"
         android:category="android.theme.customization.background_color"
-        android:priority="1" />
+        android:priority="1"
+        android:isStatic="true" />
 
     <application android:label="@string/background_color_black_overlay" android:hasCode="false"/>
 </manifest>
