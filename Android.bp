@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "BackgroundBlackOverlay",
+    theme: "BackgroundBlack",
+    vendor: true,
+}
